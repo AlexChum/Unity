@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ba138196843684ee68ddda0243400199
+timeCreated: 1495614820
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Emiral Script Bold PERSONAL USE
+  fontNames:
+  - Emiral Script Bold PERSONAL USE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

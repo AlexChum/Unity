@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d0c7a7be0fc764719bc63ac117061f8c
+timeCreated: 1494989337
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rainbow Bridge Personal Use
+  fontNames:
+  - Rainbow Bridge Personal Use
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

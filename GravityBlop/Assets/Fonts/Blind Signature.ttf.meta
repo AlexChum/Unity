@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8ed7b1a11019b43b6a499695a9498a34
+timeCreated: 1494989180
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blind Signature
+  fontNames:
+  - Blind Signature
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

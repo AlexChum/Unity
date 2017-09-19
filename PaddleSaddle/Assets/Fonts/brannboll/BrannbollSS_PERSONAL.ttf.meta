@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5f24718508fa34ca5b1660daae036906
+timeCreated: 1495614820
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brannboll S PERSONAL USE ONLY
+  fontNames:
+  - Brannboll S PERSONAL USE ONLY
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

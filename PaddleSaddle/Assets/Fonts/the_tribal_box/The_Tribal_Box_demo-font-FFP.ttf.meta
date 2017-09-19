@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 08553476b1f3d4aafb885d40ce6ad7bf
+timeCreated: 1495614819
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Tribal Box
+  fontNames:
+  - The Tribal Box
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

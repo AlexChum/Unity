@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a468e1bed6b154a16a664822b3afba28
+timeCreated: 1495640836
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Commercial Script
+  fontNames:
+  - Commercial Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

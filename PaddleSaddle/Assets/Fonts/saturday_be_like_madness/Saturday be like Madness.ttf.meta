@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 360495dff9ff34caaa08d6ec54cf49c4
+timeCreated: 1495614820
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Saturday be like Madness
+  fontNames:
+  - Saturday be like Madness
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bb85cc6633cb64fe69caf3bc6e8ee577
+timeCreated: 1495614820
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Angilla Tattoo Personal Use '
+  fontNames:
+  - 'Angilla Tattoo Personal Use '
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
